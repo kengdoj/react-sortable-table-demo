@@ -7,7 +7,7 @@ class App extends Component {
     const headers = ['Band', 'Singer', 'Inception', 'Label'];
 
     const rows = [
-      ['Napalm Death', 'Barney Greenway', '1981', 'Century Media'],
+      ['Napalm Death Kathy', 'Barney Greenway Kathy', '1981', 'Century Media'],
       ['Carcass', 'Jeff Walker', '1985', 'Earache'],
       ['Extreme Noise Terror', 'Dean Jones', '1985', 'Candlelight'],
       ['Discordance Axis', 'Jon Chang', '1992', 'Hydrahead']
